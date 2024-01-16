@@ -1,0 +1,9 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="video-play">
+<path id="Vector" d="M73.3337 50V30C73.3337 13.3333 66.667 6.66667 50.0003 6.66667H30.0003C13.3337 6.66667 6.66699 13.3333 6.66699 30V50C6.66699 66.6667 13.3337 73.3333 30.0003 73.3333H50.0003C66.667 73.3333 73.3337 66.6667 73.3337 50Z" stroke="#4A691B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M8.40039 23.7H71.6004" stroke="#4A691B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M28.4004 7.03333V23.2333" stroke="#4A691B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M51.5996 7.03333V21.7333" stroke="#4A691B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_5" d="M32.5 48.1667V44.1667C32.5 39.0333 36.1333 36.9333 40.5667 39.5L44.0333 41.5L47.5 43.5C51.9333 46.0667 51.9333 50.2667 47.5 52.8333L44.0333 54.8333L40.5667 56.8333C36.1333 59.4 32.5 57.3 32.5 52.1667V48.1667V48.1667Z" stroke="#4A691B" stroke-width="5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
